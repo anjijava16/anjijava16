@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Anjaiah Methuku and I'm a Data engineer(Hadoop,AW/GCP). I'm from India, living in Philadelphia PA USA  and currently working at DataCore  👋
 
 <!--
 **anjijava16/anjijava16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
