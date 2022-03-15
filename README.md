@@ -3,6 +3,11 @@ My name is Anjaiah Methuku and I'm a Data engineer(Hadoop,Cloud(AWS/GCP/Azure). 
 
 Having strong technical background of most required Big Data technologies with multiple cloud certifications like Google Cloud Platform Professional Data Engineer, AWS Solution Architect and Azure Data Engineer.
 
+
+# Connect me on LinkedIn
+   https://www.linkedin.com/in/anjaiahmethuku/
+   
+   
 <!--
 **anjijava16/anjijava16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
