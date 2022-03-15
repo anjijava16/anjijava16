@@ -1,7 +1,7 @@
 ### 
 My name is Anjaiah Methuku and I'm a Data engineer(Hadoop,Cloud(AWS/GCP/Azure). I'm from India, living in Philadelphia PA USA  and currently working at DataCore  👋
 
-Having strong technical background of most required Big Data technologies with multiple cloud certifications like Google Cloud Platform Professional Data Engineer, AWS Solution Architect and Azure Data 
+Having strong technical background of most required Big Data technologies with multiple cloud certifications like Google Cloud Platform Professional Data Engineer, AWS Solution Architect and Azure Data Engineer.
 
 <!--
 **anjijava16/anjijava16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
