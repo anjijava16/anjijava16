@@ -515,7 +515,6 @@ I'm an **AI Engineer** and **Data Engineer** passionate about building intellige
 | **Certifications** | 10 (AWS, Azure, GCP, Databricks, Terraform, HuggingFace) |
 | **Primary Languages** | Python, Java, Scala, SQL |
 | **Categories** | 10 focus areas |
-| **Last Updated** | March 28, 2026 |
 
 ---
 
