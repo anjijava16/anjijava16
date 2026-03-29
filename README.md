@@ -18,7 +18,7 @@ I'm an **AI Engineer** and **Data Engineer** passionate about building intellige
 - 🤖 **AI/ML & Agents** — Multi-agent orchestration, RAG systems, LangGraph, Google ADK, and intelligent automation
 - 🔷 **Data Engineering** — Robust data pipelines, ETL/ELT systems, data warehousing & lake-house architectures
 - ☁️ **Cloud Engineering** — Multi-cloud (AWS, Azure, GCP) with Terraform, IaC, and serverless architectures
-- ☕ **Enterprise Backend** — Java, Spring Boot, Microservices, distributed systems
+- ☕ **Enterprise Java & Scala** — Java/JEE, Spring ecosystem, Scala, Microservices, and distributed systems
 
 ---
 
@@ -43,7 +43,7 @@ I'm an **AI Engineer** and **Data Engineer** passionate about building intellige
 ### Tech Stack 🛠️
 
 **Languages & Core:**
-`Python` · `Java` · `SQL` · `Shell` · `JavaScript`
+`Python` · `Java` · `Scala` · `SQL` · `Shell` · `JavaScript`
 
 **Data Engineering:**
 `Apache Spark` · `Airflow` · `Kafka` · `Snowflake` · `BigQuery` · `Redshift` · `AWS Glue` · `Azure Data Factory` · `Dataflow` · `Informatica` · `dbt`
@@ -51,8 +51,8 @@ I'm an **AI Engineer** and **Data Engineer** passionate about building intellige
 **AI/ML & Agents:**
 `LangChain` · `LangGraph` · `Google ADK` · `Composio` · `LiteLLM` · `Google A2A` · `Microsoft Agent SDK` · `OpenSearch` · `Vector Databases`
 
-**Backend & Microservices:**
-`Java` · `Spring Boot` · `Microservices` · `REST APIs` · `Maven` · `Gradle`
+**Java/JEE & Scala:**
+`Java` · `JEE` · `Spring` · `Spring Boot` · `Spring ORM` · `Hibernate` · `JPA` · `JSP` · `Servlets` · `EJB` · `Scala` · `Microservices` · `REST APIs` · `Maven` · `Gradle`
 
 **Cloud & Infrastructure:**
 `AWS` · `Azure` · `GCP` · `Terraform` · `Docker` · `Kubernetes` · `Cloud Run` · `Lambda` · `CloudFormation`
