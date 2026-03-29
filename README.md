@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/anjaiahmethuku/"><img src="https://img.shields.io/badge/LinkedIn-anjaiahmethuku-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://medium.com/@anjaiahspr"><img src="https://img.shields.io/badge/Medium-@anjaiahspr-black?style=flat&logo=medium" alt="Medium"/></a>
   <a href="https://github.com/anjijava16"><img src="https://img.shields.io/badge/GitHub-anjijava16-181717?style=flat&logo=github" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=anjijava16&label=Profile+Views&color=blue&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=anjijava16&label=Profile+Views&color=blue&style=flat&base=10000" alt="Profile views"/>
 </p>
 
 ## 🤖 AI Engineer | Data Engineer | Agent Systems Builder | Cloud Engineer
