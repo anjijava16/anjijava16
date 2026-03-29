@@ -18,7 +18,7 @@ I'm an **AI Engineer** and **Data Engineer** passionate about building intellige
 - 🤖 **AI/ML & Agents** — Multi-agent orchestration, RAG systems, LangGraph, Google ADK, and intelligent automation
 - 🔷 **Data Engineering** — Robust data pipelines, ETL/ELT systems, data warehousing & lake-house architectures
 - ☁️ **Cloud Engineering** — Multi-cloud (AWS, Azure, GCP) with Terraform, IaC, and serverless architectures
-- ☕ **Enterprise Java & Scala** — Java/JEE, Spring ecosystem, Scala, Microservices, and distributed systems
+- ☕ **Enterprise Python,Java & Scala** — Python (FastAPI),Python with ML ,Java/JEE, Spring ecosystem, Scala, Microservices, and distributed systems
 
 ---
 
