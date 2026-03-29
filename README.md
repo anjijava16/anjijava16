@@ -1,15 +1,20 @@
-
 # 👋 Hello, I'm Anjisoft!
 
-## 🤖 AI Engineer | Agent Systems Builder | Innovator
+## 🤖 AI Engineer | Data Engineer | Agent Systems Builder | Cloud Engineer
 
 ---
 
 ### About Me 🌐
 
-I'm a passionate AI Engineer and Software Developer specializing in building intelligent agent systems, AI/ML solutions, and cloud-native applications. With a focus on cutting-edge technologies like **Large Language Models (LLMs)**, **Multi-Agent Orchestration**, and **Enterprise AI Systems**, I explore the intersection of AI innovation and practical engineering.
+I'm a versatile AI Engineer and Data Engineer with **7+ years of experience** building scalable data solutions, intelligent agent systems, and enterprise-grade applications. With deep expertise in **Data Engineering**, **AI/ML**, **Cloud Architecture**, and **Microservices**, I bridge the gap between data infrastructure and cutting-edge AI implementations.
 
-My work spans from architecting sophisticated agent frameworks to experimenting with the latest AI/ML methodologies, with a particular interest in agentic systems and autonomous intelligence.
+My specialization spans:
+- 🔷 **Data Engineering** - Building robust data pipelines, ETL/ELT systems, and data warehousing solutions
+- 🤖 **AI/ML Systems** - Architecting sophisticated agent frameworks, RAG systems, and intelligent automation
+- ☁️ **Cloud Engineering** - Multi-cloud expertise (AWS, Azure, GCP) with Infrastructure as Code (Terraform)
+- 🏗️ **Enterprise Systems** - Java, Spring Boot, Microservices, and distributed data systems
+
+I'm passionate about transforming raw data into actionable intelligence through intelligent systems and orchestrating complex AI/ML workflows at scale.
 
 ---
 
@@ -26,24 +31,50 @@ My work spans from architecting sophisticated agent frameworks to experimenting 
 
 ### Tech Stack 🛠️
 
-**Languages:** Python, Java, Jupyter Notebook, Shell, JavaScript
+**Languages:** Python, Java, SQL, Jupyter Notebook, Shell, JavaScript
 
-**Frameworks & Tools:**
-- AI/ML: LangChain, LangGraph, Google ADK, Composio, LiteLLM
-- Orchestration: Google A2A Agents, Microsoft Agent SDK
-- Cloud: AWS (Bedrock, OpenSearch), Google Cloud Platform
-- Databases: MySQL, Vector Databases, NoSQL systems
-- RAG & Search: OpenSearch, Retrieval Augmented Generation
+**Data Engineering & Backend:**
+- Data Platforms: Apache Spark, Airflow, Kafka, Snowflake, BigQuery, Redshift
+- Languages & Frameworks: Java, Spring Boot, Microservices Architecture
+- Databases: MySQL, PostgreSQL, MongoDB, Cassandra, DynamoDB
+- ETL/ELT: Apache Spark, Airflow, Dataflow, Glue, Informatica
+
+**AI/ML & Orchestration:**
+- AI Frameworks: LangChain, LangGraph, Google ADK, Composio, LiteLLM
+- Agent Systems: Google A2A Agents, Microsoft Agent SDK
+- RAG & Search: OpenSearch, Retrieval Augmented Generation, Vector Databases
+
+**Cloud & Infrastructure:**
+- Cloud Platforms: AWS, Azure, Google Cloud Platform
+- Infrastructure as Code: Terraform, AWS CloudFormation, Bicep
+- Cloud Services: AWS Glue, AWS Lambda, Azure Data Factory, Dataflow, Cloud Run
+- AI Services: AWS Bedrock, Azure OpenAI, Vertex AI
 
 ---
 
 ### Professional Highlights 🌟
 
-- 🎯 **Agent Systems Architecture** - Designing multi-agent systems with sophisticated orchestration patterns
+**Data Engineering:**
+- 🏗️ **Data Pipeline Architecture** - Designing scalable ETL/ELT systems handling petabyte-scale data
+- 📊 **Data Warehouse Design** - Building efficient data warehouses and data lakes on AWS, Azure, GCP
+- ⚡ **Real-time Data Processing** - Streaming architectures with Kafka, Spark Streaming, and Kinesis
+- 🔐 **Data Governance & Quality** - Implementing data quality frameworks and compliance solutions
+
+**AI/ML & Cloud:**
+- 🤖 **Agent Systems Architecture** - Designing multi-agent systems with sophisticated orchestration patterns
 - 💻 **Full-Stack AI Engineering** - End-to-end implementation from model selection to production deployment
-- 🔗 **API Integration** - Building robust integrations with cloud services, LLM providers, and specialized APIs
-- 📈 **Research Implementation** - Translating cutting-edge AI research into practical, working systems
-- 🏪 **Enterprise Solutions** - Customer support orchestrators, order management systems, financial intelligence platforms
+- ☁️ **Multi-Cloud Expertise** - Certified architect across AWS, Azure, and Google Cloud
+- 🏪 **Enterprise Solutions** - Customer support orchestrators, financial intelligence, order management systems
+- 🔗 **API Integration** - Building robust integrations with cloud services, LLM providers, and data platforms
+
+---
+
+### Speaking & Community 🎤
+
+- 🎯 **Active Meetup Participant** - Regularly attending and engaging with tech communities
+- 📢 **Tech Speaker** - Delivered presentations on Data Engineering, AI/ML, and Cloud Architecture at various meetups
+- 🤝 **Community Contributor** - Sharing knowledge and experiences with fellow developers and engineers
+- 💬 **Knowledge Sharing** - Writing articles on Medium about practical implementations and best practices
 
 ---
 
@@ -133,37 +164,58 @@ Below is a comprehensive list of all **30 repositories** showcasing my diverse w
 
 ---
 
+### Certifications 🏅
+
+- ✅ **AWS Certified Data Engineer - Professional**
+- ✅ **Azure Certified Data Engineer Associate**
+- ✅ **Google Cloud Certified Data Engineer**
+- ✅ **AWS Certified Machine Learning - Professional**
+- ✅ **Terraform Associate Certified**
+
+---
+
 ### Interests & Focus Areas 🎯
 
+**Data & Analytics:**
+- 📊 **Large-Scale Data Systems** - Designing and implementing big data architectures
+- 🔄 **Data Pipeline Optimization** - ETL/ELT performance tuning and cost optimization
+- 📈 **Analytics Engineering** - Building modern data stacks and self-service analytics
+
+**AI/ML & Innovation:**
 - 🤖 **Agentic AI Systems** - Building sophisticated autonomous agents with reasoning and planning capabilities
 - 🧠 **Advanced LLM Techniques** - RAG, agentic RAG, chain-of-thought, self-discovery patterns
 - 🔄 **Multi-Agent Orchestration** - Agent-to-agent communication, orchestrator patterns, workflow management
-- 📡 **API Integration** - Seamless integration of external tools and services with LLM agents
-- 🌍 **Cloud-Native AI** - Scalable AI systems on Google Cloud, AWS, and modern cloud platforms
-- 🎓 **AI Research Implementation** - Translating academic research into production-ready systems
+- 🌍 **AI Data Integration** - Combining data engineering with ML/AI for intelligent systems
+- 🎓 **Emerging Technologies** - Cloud-native AI, serverless architectures, infrastructure as code
 
 ---
 
 ### Get In Touch 📬
 
 - 🔗 **GitHub:** [@anjijava16](https://github.com/anjijava16)
-- 💼 **Portfolio:** Check out my experiments and projects above
-- 🤝 **Collaborate:** Always open to discussing AI agents, orchestration patterns, and innovative solutions
+- 💼 **LinkedIn:** [anjaiahmethuku](https://www.linkedin.com/in/anjaiahmethuku/)
+- � **Medium:** [@anjaiahspr](https://medium.com/@anjaiahspr) - Articles on Data Engineering, AI/ML, and Cloud Architecture
+- �📧 **Portfolio:** Check out my experiments and projects above
+- 🤝 **Collaborate:** Always open to discussing data engineering, AI agents, cloud architecture, and innovative solutions
 
 ---
 
 ### Stats 📈
 
 - **Total Repositories:** 30+
-- **Primary Languages:** Python, Jupyter Notebook, Java
-- **Focus Areas:** AI/ML, Agent Systems, Cloud Technologies
+- **Years of Experience:** 7+ years (Data Engineering, Backend Development, AI/ML)
+- **Primary Languages:** Python, Java, SQL
+- **Certifications:** 5 (AWS, Azure, GCP, Terraform)
+- **Focus Areas:** Data Engineering, AI/ML, Agent Systems, Cloud Architecture, Microservices
 - **Latest Update:** March 28, 2026
 
 ---
 
-**"Building the future through intelligent agents and cutting-edge AI engineering."** 🚀
+**"Bridging data infrastructure and intelligent AI systems to solve enterprise challenges at scale."** 🚀
 
-*Explore my repositories above to see my latest work in agent systems, AI orchestration, and machine learning implementations.*
+*With 7+ years of data engineering expertise and cutting-edge AI/ML skills, I'm passionate about building scalable, intelligent systems that transform data into actionable insights.*
+
+*Explore my repositories above to see my latest work in data engineering, agent systems, cloud architecture, and AI orchestration.*
 
 
 ### 
