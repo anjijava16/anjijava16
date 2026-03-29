@@ -25,18 +25,28 @@ I'm an **AI Engineer** and **Data Engineer** passionate about building intellige
 ### Certifications 🏅
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-Data_Engineer_Professional-FF9900?style=for-the-badge&logo=amazonaws" alt="AWS DE"/>
+  <img src="https://img.shields.io/badge/AWS-ML_Specialty-FF9900?style=for-the-badge&logo=amazonaws" alt="AWS ML"/>
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws" alt="AWS SA"/>
   <img src="https://img.shields.io/badge/Azure-Data_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure" alt="Azure DE"/>
+  <img src="https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure" alt="Azure AZ-900"/>
   <img src="https://img.shields.io/badge/GCP-Data_Engineer-4285F4?style=for-the-badge&logo=googlecloud" alt="GCP DE"/>
-  <img src="https://img.shields.io/badge/AWS-ML_Professional-FF9900?style=for-the-badge&logo=amazonaws" alt="AWS ML"/>
+  <img src="https://img.shields.io/badge/Databricks-DE_Professional-FF3621?style=for-the-badge&logo=databricks" alt="Databricks DE Pro"/>
+  <img src="https://img.shields.io/badge/Databricks-DE_Associate-FF3621?style=for-the-badge&logo=databricks" alt="Databricks DE Assoc"/>
   <img src="https://img.shields.io/badge/Terraform-Associate-7B42BC?style=for-the-badge&logo=terraform" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/HuggingFace-AI_Agents-FFD21E?style=for-the-badge&logo=huggingface" alt="HF AI Agents"/>
+  <img src="https://img.shields.io/badge/GridGain-Apache_Ignite-F7751F?style=for-the-badge&logo=apacheignite" alt="GridGain"/>
 </p>
 
-- ✅ **AWS Certified Data Engineer — Professional**
-- ✅ **Microsoft Azure Certified Data Engineer Associate**
-- ✅ **Google Cloud Certified Professional Data Engineer**
-- ✅ **AWS Certified Machine Learning — Professional**
-- ✅ **HashiCorp Terraform Associate**
+- ✅ **AWS Certified Machine Learning — Specialty** (2025)
+- ✅ **AI Agents Fundamentals — Hugging Face** (2025)
+- ✅ **Databricks Certified Data Engineer Professional** (2024)
+- ✅ **Databricks Certified Data Engineer Associate** (2024)
+- ✅ **HashiCorp Certified: Terraform Associate** (2022)
+- ✅ **Microsoft Certified: Azure Data Engineer Associate** (2022)
+- ✅ **GridGain Developer Essentials: Apache Ignite & Spring** (2022)
+- ✅ **Google Cloud Certified Professional Data Engineer** (2021)
+- ✅ **AWS Certified Solutions Architect — Associate** (2021)
+- ✅ **Microsoft Certified: Azure Fundamentals** (2021)
 
 ---
 
@@ -502,7 +512,7 @@ I'm an **AI Engineer** and **Data Engineer** passionate about building intellige
 | Metric | Value |
 |--------|-------|
 | **Total Repositories** | 300+ |
-| **Certifications** | 5 (AWS, Azure, GCP, Terraform) |
+| **Certifications** | 10 (AWS, Azure, GCP, Databricks, Terraform, HuggingFace) |
 | **Primary Languages** | Python, Java, Scala, SQL |
 | **Categories** | 10 focus areas |
 | **Last Updated** | March 28, 2026 |
