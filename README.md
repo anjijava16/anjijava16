@@ -43,7 +43,10 @@ I'm an **AI Engineer** and **Data Engineer** passionate about building intellige
 ### Tech Stack 🛠️
 
 **Languages & Core:**
-`Python` · `Java` · `Scala` · `SQL` · `Shell` · `JavaScript`
+`Python` · `Scala` · `SQL` · `Java` · `Shell` · `JavaScript`
+
+**Python & ML Engineering:**
+`FastAPI` · `FastMCP` · `SQLAlchemy` · `Scikit-learn` · `TensorFlow` · `SageMaker` · `Pandas` · `NumPy` · `Pickle (pkl)` · `Model Training` · `Model Deployment` · `Model Serving` · `Model Evaluation`
 
 **Data Engineering:**
 `Apache Spark` · `Airflow` · `Kafka` · `Snowflake` · `BigQuery` · `Redshift` · `AWS Glue` · `Azure Data Factory` · `Dataflow` · `Informatica` · `dbt`
@@ -51,14 +54,14 @@ I'm an **AI Engineer** and **Data Engineer** passionate about building intellige
 **AI/ML & Agents:**
 `LangChain` · `LangGraph` · `Google ADK` · `Composio` · `LiteLLM` · `Google A2A` · `Microsoft Agent SDK` · `OpenSearch` · `Vector Databases`
 
-**Java/JEE & Scala:**
-`Java` · `JEE` · `Spring` · `Spring Boot` · `Spring ORM` · `Hibernate` · `JPA` · `JSP` · `Servlets` · `EJB` · `Scala` · `Microservices` · `REST APIs` · `Maven` · `Gradle`
-
 **Cloud & Infrastructure:**
 `AWS` · `Azure` · `GCP` · `Terraform` · `Docker` · `Kubernetes` · `Cloud Run` · `Lambda` · `CloudFormation`
 
 **Databases:**
 `MySQL` · `PostgreSQL` · `MongoDB` · `Cassandra` · `DynamoDB` · `Redis`
+
+**Java/JEE & Scala:**
+`Java` · `JEE` · `Spring` · `Spring Boot` · `Spring ORM` · `Hibernate` · `JPA` · `JSP` · `Servlets` · `EJB` · `Scala` · `Microservices` · `REST APIs` · `Maven` · `Gradle`
 
 ---
 
@@ -500,7 +503,7 @@ I'm an **AI Engineer** and **Data Engineer** passionate about building intellige
 |--------|-------|
 | **Total Repositories** | 300+ |
 | **Certifications** | 5 (AWS, Azure, GCP, Terraform) |
-| **Primary Languages** | Python, Java, SQL |
+| **Primary Languages** | Python, Java, Scala, SQL |
 | **Categories** | 10 focus areas |
 | **Last Updated** | March 28, 2026 |
 
