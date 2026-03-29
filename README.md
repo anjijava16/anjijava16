@@ -62,7 +62,7 @@ I'm an **AI Engineer** and **Data Engineer** passionate about building intellige
 `FastAPI` · `FastMCP` · `SQLAlchemy` · `Scikit-learn` · `TensorFlow` · `SageMaker` · `Pandas` · `NumPy` · `Pickle (pkl)` · `Model Training` · `Model Deployment` · `Model Serving` · `Model Evaluation`
 
 **Data Engineering:**
-`Apache Spark` · `Airflow` · `Kafka` · `Snowflake` · `BigQuery` · `Redshift` · `AWS Glue` · `Azure Data Factory` · `Dataflow` · `Informatica` · `dbt`
+`Apache Spark` · `Spark Streaming` · `Kafka` · `Apache Flink` · `Flink Streaming` · `Hive` · `MapReduce` · `Oozie` · `Airflow` · `Snowflake` · `BigQuery` · `Redshift` · `AWS Glue` · `Azure Data Factory` · `Dataflow` · `dbt`
 
 **Cloud & Infrastructure:**
 `AWS` · `Azure` · `GCP` · `Terraform` · `Docker` · `Kubernetes` · `Cloud Run` · `Lambda` · `CloudFormation`
