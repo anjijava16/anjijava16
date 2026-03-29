@@ -45,14 +45,14 @@ I'm an **AI Engineer** and **Data Engineer** passionate about building intellige
 **Languages & Core:**
 `Python` · `Scala` · `SQL` · `Java` · `Shell` · `JavaScript`
 
+**AI/ML & Agents:**
+`LangChain` · `LangGraph` · `Google ADK` · `Composio` · `LiteLLM` · `Google A2A` · `Microsoft Agent SDK` · `OpenSearch` · `Vector Databases`
+
 **Python & ML Engineering:**
 `FastAPI` · `FastMCP` · `SQLAlchemy` · `Scikit-learn` · `TensorFlow` · `SageMaker` · `Pandas` · `NumPy` · `Pickle (pkl)` · `Model Training` · `Model Deployment` · `Model Serving` · `Model Evaluation`
 
 **Data Engineering:**
 `Apache Spark` · `Airflow` · `Kafka` · `Snowflake` · `BigQuery` · `Redshift` · `AWS Glue` · `Azure Data Factory` · `Dataflow` · `Informatica` · `dbt`
-
-**AI/ML & Agents:**
-`LangChain` · `LangGraph` · `Google ADK` · `Composio` · `LiteLLM` · `Google A2A` · `Microsoft Agent SDK` · `OpenSearch` · `Vector Databases`
 
 **Cloud & Infrastructure:**
 `AWS` · `Azure` · `GCP` · `Terraform` · `Docker` · `Kubernetes` · `Cloud Run` · `Lambda` · `CloudFormation`
